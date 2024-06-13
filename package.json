@@ -7,10 +7,9 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pedro Avila",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^4.19.2"
-  }
+  "type": "module",
+  "description": ""
+  
 }

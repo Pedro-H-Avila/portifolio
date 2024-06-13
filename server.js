@@ -3,6 +3,5 @@ import express from 'express';
 
 const server = express();
 
-server.listen(300, () => console.log("servidor rodando com sucesso"))
-;
+server.listen(300, () => console.log("servidor rodando com sucesso"));
 
