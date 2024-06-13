@@ -12,7 +12,7 @@ const tabela2024 = [
     sigla: 'SPFC',
     pontos: 0,
     vitorias: 0,
-    empates: 0,
+    empates: 0,             
     golsMarcados: 0,
 },
 { nome: 'atletico-PR',
@@ -25,7 +25,7 @@ const tabela2024 = [
 },
 {
     nome: 'Atletico-MG',
-    sigla: 'CRU',
+    sigla: 'CAM',
     pontos: 0,
     vitorias: 0,
     empates: 0,
@@ -105,7 +105,7 @@ const tabela2024 = [
 },
 {
     nome: 'Fluminense',
-    sigla: 'CRU',
+    sigla: 'FLU',
     pontos: 0,
     vitorias: 0,
     empates: 0,
