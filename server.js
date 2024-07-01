@@ -18,4 +18,3 @@ server.get('/:sigla', (req,res) => {
     resposta.status(200).send(time);
 });
 server.listen(300, () => console.log('servidor rodando com sucesso'));
-const overTime = 0;
