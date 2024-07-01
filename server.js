@@ -16,6 +16,6 @@ server.get('/:sigla', (req,res) => {
         resposta.status(404).send('Não existe na série A do Brasileirão 2024 um time com a sigla informada!');
         return;
     }
-    resposta.status(200).send(time);
+    res.status(200).send(time);
 });
 server.listen(300, () => console.log('servidor rodando com sucesso'));
